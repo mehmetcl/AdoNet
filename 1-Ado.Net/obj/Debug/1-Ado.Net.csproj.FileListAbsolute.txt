@@ -1,0 +1,11 @@
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\obj\Debug\1-Ado.Net.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\obj\Debug\1-Ado.Net.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\obj\Debug\_1_Ado.Net.AdoNetDemo.resources
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\obj\Debug\_1_Ado.Net.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\obj\Debug\1-Ado.Net.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\obj\Debug\1-Ado.Net.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\bin\Debug\1-Ado.Net.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\bin\Debug\1-Ado.Net.exe
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\bin\Debug\1-Ado.Net.pdb
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\obj\Debug\1-Ado.Net.exe
+C:\Users\mehme\OneDrive\Masaüstü\C#\Windows Form App\1-Ado.Net\1-Ado.Net\obj\Debug\1-Ado.Net.pdb
